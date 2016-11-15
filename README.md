@@ -20,7 +20,7 @@ Tried of keeping up with image icons? Simply make icons using TextViews, no visu
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textColor="#fff"
-                    android:textSize="24dp"
+                    android:textSize="24sp"
                     android:text="@string/my_icon"
                     tools:ignore="SpUsage" />
 
