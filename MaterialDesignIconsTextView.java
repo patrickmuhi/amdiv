@@ -29,7 +29,7 @@ public class MaterialDesignIconsTextView extends TextView {
 	
 	private void setTypeface() {
 		if (sMaterialDesignIcons == null) {
-			sMaterialDesignIcons = Typeface.createFromAsset(getContext().getAssets(), "fonts/MaterialDesignIcons.ttf");
+			sMaterialDesignIcons = Typeface.createFromAsset(getContext().getAssets(), "icons/MaterialDesignIcons.ttf");
 		}
 		setTypeface(sMaterialDesignIcons);
 	}
